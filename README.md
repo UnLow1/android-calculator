@@ -1,7 +1,7 @@
-## Sample Android calculator
+# Sample Android calculator
 Application can calculate PI in background using Monte Carlo method
 
-# Screenshots from application
+## Screenshots from application
 
 <img src="results/start_view.png" width="200"/>
 
